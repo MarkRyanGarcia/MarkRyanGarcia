@@ -6,7 +6,7 @@
 
 - 📐 A Supplemental Instructor for Calculus, because Math is just so fun!
 
-- 💻 I have experience with: Python, C/C++, Javascript, Svelte/Sveltekit, Gdscript, x86_64 ASM, and learning more...
+- 💻 I have experience with: Python, C/C++, HTML, CSS, Javascript, Gdscript, and learning more...
 
 - 💯 Fun fact: **I have a collection of 50+ Rubik's Cubes**
 
