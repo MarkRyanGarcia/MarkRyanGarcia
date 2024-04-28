@@ -2,6 +2,8 @@
 <h3 align="left">An undergraduate student at CSU Fullerton🐘 | CS Major, Math Minor</h3>
 <p>I'm a full time student while working two jobs, but I'm still trying to find time to work on projects! 😄<p>
 
+- Check out my personal [Portfolio Site](https://www.markg.dev/)
+
 - 📷 A Marketing Officer for the [Association of Computing Machinery at CSUF](https://acmcsuf.com/)
 
 - 📐 A Supplemental Instructor for Calculus, because Math is just so fun!
