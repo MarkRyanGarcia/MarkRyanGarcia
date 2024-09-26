@@ -10,6 +10,6 @@
 
 - 💻 I have experience with: Python, C/C++, HTML, CSS, Javascript, Gdscript, and learning more...
 
-- 💯 Fun fact: **I have a collection of 50+ Rubik's Cubes**
+- 💯 Fun fact: **I have a collection of 60+ Rubik's Cubes**
 
 - 🤙 Add me on Discord at `xnaym`
