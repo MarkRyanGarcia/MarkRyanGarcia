@@ -12,4 +12,4 @@
 
 - 💯 Fun fact: **I have a collection of 60+ Rubik's Cubes**
 
-- 🤙 Add me on Discord at `xnaym`
+- 🤙 Add me on Discord at `markgdev`
