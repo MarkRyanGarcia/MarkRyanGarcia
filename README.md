@@ -12,4 +12,6 @@
 
 - 💯 Fun fact: **I have a collection of 60+ Rubik's Cubes**
 
+- 💼 Check out my [Resume](https://github.com/MarkRyanGarcia/Resume/blob/main/resume.pdf)
+
 - 🤙 Add me on Discord at `markgdev`
