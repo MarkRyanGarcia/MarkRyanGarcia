@@ -4,7 +4,7 @@
 
 - Check out my personal [Portfolio Site](https://www.markg.dev/)
 
-- 📷 The Marketing Team Lead for the [Association of Computing Machinery at CSUF](https://acmcsuf.com/)
+- 📷 President of [Association of Computing Machinery at CSUF](https://acmcsuf.com/)
 
 - 📐 A Supplemental Instructor for Calculus, because Math is just so fun!
 
