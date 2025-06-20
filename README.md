@@ -1,8 +1,10 @@
-<h1 align="center">Hi!👋 I'm Mark :)</h1>
+<h1 align="center">hi, I'm mark :)</h1>
 <h3 align="left">An undergraduate student at CSU Fullerton🐘 | CS Major, Math Minor</h3>
-<p>I'm a full time student while working two jobs, but I'm still trying to find time to work on projects! 😄<p>
+<p>I like to code sometimes :P<p>
 
 - Check out my personal [Portfolio Site](https://www.markg.dev/)
+
+- 💼 SWE Intern at Glenair, Inc. - Summer 2025
 
 - 👨‍💼 President of [Association of Computing Machinery at CSUF](https://acmcsuf.com/)
 
