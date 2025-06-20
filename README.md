@@ -1,5 +1,5 @@
 <h1 align="center">hi, I'm mark :)</h1>
-<h3 align="left">An undergraduate student at CSU Fullerton🐘 | CS Major, Math Minor</h3>
+<h3 align="left">An undergraduate student at CSU Fullerton 🐘 | CS Major, Math Minor</h3>
 <p>I like to code sometimes :P<p>
 
 - Check out my personal [Portfolio Site](https://www.markg.dev/)
