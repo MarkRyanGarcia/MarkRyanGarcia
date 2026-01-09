@@ -1,17 +1,15 @@
-<h1 align="center">Hi, I'm Mark 👋</h1>
-<h3>An undergraduate student at CSU Fullerton 🐘 | CS Major, Math Minor</h3>
-<p>I am a fullstack developer :]<p>
-
+# Hi, I'm Mark 👋
+### An undergraduate student at CSU Fullerton 🐘 | CS Major, Math Minor
+I am a fullstack developer :]
 - Check out my personal [Portfolio Site](https://markgarcia.dev/)
-- 💼 SWE Intern at Glenair, Inc.
-- 👨‍💼 President of [Association of Computing Machinery at CSUF](https://acmcsuf.com/)
+- <img src="https://www.glenair.com/favicon.ico?v2" />  SWE Intern at Glenair, Inc.
+- <img src="https://acmcsuf.com/favicon.ico?v2" height=20 /> President of [Association of Computing Machinery at CSUF](https://acmcsuf.com/)
 - 💻 I have experience with: Python, Typescript, HTML/CSS, MySQL, and more!
-- 💯 Fun fact: **I have a collection of 60+ Rubik's Cubes**
 - 💼 Check out my [Resume](https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/MarkRyanGarcia/Resume/main/resume.pdf)
-- 🤙 Add me on Discord at `markgdev`
+- 💯 Fun fact: **I have a collection of 60+ Rubik's Cubes**  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/MarkRyanGarcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MarkRyanGarcia" height="30" width="40" /></a>
-<a href="https://instagram.com/mark.r.ga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mark.r.ga" height="30" width="40" /></a>
-</p>
+### Connect with me:
+<a href="https://linkedin.com/in/MarkRyanGarcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-button" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/MarkRGarcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode-button" height="30" width="40" /></a>
+<a href="https://instagram.com/mark.r.ga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram-button" height="30" width="40" /></a>
+<a href="https://discord.com/users/219639423577358336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Htxp79Yw" height="40" width="40" /></a>
