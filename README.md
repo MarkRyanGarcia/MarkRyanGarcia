@@ -1,4 +1,4 @@
-<h1 align="center">hi, i'm mark :D</h1>
+<h1 align="center">Hi, I'm Mark 👋</h1>
 <h3>An undergraduate student at CSU Fullerton 🐘 | CS Major, Math Minor</h3>
 <p>I am a fullstack developer :]<p>
 
