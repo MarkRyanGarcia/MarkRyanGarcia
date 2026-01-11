@@ -6,7 +6,7 @@ I am a Fullstack Developer :)
 - <img src="https://www.glenair.com/favicon.ico?v2" />  **SWE Intern** at Glenair, Inc.
 - <img src="https://acmcsuf.com/favicon.ico?v2" height=20 /> **President** of [Association of Computing Machinery at CSUF](https://acmcsuf.com/)
 - 💻 I have experience with: Python, Typescript, HTML/CSS, MySQL, and more!
-- 💼 Check out my [Resume](https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/MarkRyanGarcia/Resume/main/resume.pdf)
+- 💼 Check out my [Resume](https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/MarkRyanGarcia/Resume/main/Mark_Garcia_Resume.pdf)
 - 💯 Fun fact: **I have a collection of 60+ Rubik's Cubes**  
 
 ### Connect with me:
