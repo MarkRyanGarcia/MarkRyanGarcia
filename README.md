@@ -3,7 +3,7 @@
 
 I am a Fullstack Developer :)
 - Check out my personal [Portfolio Site](https://markgarcia.dev/)
-- <img src="https://www.glenair.com/favicon.ico?v2" />  **SWE Intern** at Glenair, Inc.
+- <img src="https://www.glenair.com/favicon.ico?v2" />  x2 **SWE Intern** at Glenair, Inc.
 - <img src="https://acmcsuf.com/favicon.ico?v2" height=20 /> **President** of [Association of Computing Machinery at CSUF](https://acmcsuf.com/)
 - 💻 I have experience with: Python, Typescript, HTML/CSS, MySQL, and more!
 - 💼 Check out my [Resume](https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/MarkRyanGarcia/Resume/main/Mark_Garcia_Resume.pdf)
